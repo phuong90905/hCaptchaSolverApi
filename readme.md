@@ -62,6 +62,7 @@ min: 2ms ~ max: 500ms
 ## Features
 
 ⚡ 0.02s ~ 1s solves \
+🌐 User [Dashboard soon..](https://dash.nocaptchaai.com/) \
 🌐 Support all programming languages with HTTP api \
 🌀 Scripts for Python, NodeJS, JS, Puppeteer, Selenium, Playwright and more \
 💡 Works with cli tools too \
