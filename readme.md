@@ -17,7 +17,7 @@
 
 | Basic Plans | Monthly |
 | ------------- | ------- | 
-| 200 daily - 6K Monthly    | <a href="https://nocaptchaai.com/register">Get 6K free 💙</a></h2>     |
+| 200 daily - 6K Monthly    | <a href="https://nocaptchaai.com/register">**Click Here: 6K free** 💙</a></h2>     |
 | 3K daily - 90K Monthly     | 6$      |
 | 6K daily - 180K Monthly     | 10$     | 
 | 20K daily - 0.6 million Monthly    | 18$     | 
@@ -25,7 +25,7 @@
 | 80K daily - 2.4 million Monthly   | 45$     |
 | 250K daily - 7.5 million Monthly   | 99$     |
 | 500K daily - 15 million Monthly  | 170$    |
-| **How to buy?**   | **<a href="https://nocaptchaai.com/buy.html">PayPal Link</a>**    |
+| **How to buy?**   | **<a href="https://nocaptchaai.com/buy.html">Click Here: PayPal Link</a>**    |
 
 | Pro Plans | Monthly   |
 | ------------- | ------- | 
@@ -36,7 +36,7 @@
 | 10000/min ~ 420 million monthly | 2999$     |
 | 20000/min ~ 840 million monthly | 4999$     |
 | Unlimited solves per min  | ✨contact |
-| **How to buy?**   | **<a href="https://nocaptchaai.com/buy.html">PayPal Link</a>**    |
+| **How to buy?**   | **<a href="https://nocaptchaai.com/buy.html">Click Here: PayPal Link</a>**    |
 
 </p>
 
